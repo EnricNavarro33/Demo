@@ -5,5 +5,6 @@ public class main {
         System.out.println("afegir 3era linia");
         System.out.println("afegim quarta linia");
         system.out.println("aquesta es un a linia afegida desde visual");
+        System.out.println("un altra linia en vs");
     }
 }
